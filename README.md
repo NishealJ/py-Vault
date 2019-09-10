@@ -13,7 +13,7 @@ Further I recommend to see the vault installation guide here https://www.vaultpr
 
 ## Usage
 
-Before using the Apis please make sure that the vault is up and running,
+Before using the Apis please make sure that the vault is up and running use ```start/start```,
 
 you can use the vault api by importing the api file ```import api/api```
 
